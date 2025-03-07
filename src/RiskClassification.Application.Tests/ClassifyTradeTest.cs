@@ -6,7 +6,7 @@ using RiskClassification.Application.Interfaces;
 
 namespace RiskClassification.Application.Tests
 {
-    public class UnitTest1
+    public class ClassifyTradeTest
     {
         [Fact]
         public async Task ClassifyTradeAsync_ShouldReturnCorrectClassificationSequence()
